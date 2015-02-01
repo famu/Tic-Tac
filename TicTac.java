@@ -1,5 +1,5 @@
 /*
- A console based Tic Tac game.
+ Human vs Human tic-tac game.
 */
 
 import javax.swing.JOptionPane;
