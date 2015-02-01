@@ -1,5 +1,7 @@
 
-
+/*
+Human vs CPU tic-tac game. CPU picks an available square at random.
+*/
 	import java.util.Random;
 
 import javax.swing.JOptionPane;
